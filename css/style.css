@@ -19,9 +19,6 @@ header {
     padding: 10px;
 }
 
-.title {
-    
-}
 
 section {
     padding: 20px;
@@ -31,7 +28,7 @@ section {
 }
 
 .formContainer {
-    max-width: 230px;
+    max-width: 250px;
     background-color: #ffffffbb;
     padding: 20px;
     float: right;
@@ -43,6 +40,7 @@ h2 {
 
 .mb {
     margin-bottom: 15px;
+    text-align: justify;
 }
 
 input, select {
@@ -77,7 +75,7 @@ footer {
 }
 
 .picture{
-    width: 160px;
+    width: 140px;
 }
 
 .description{
